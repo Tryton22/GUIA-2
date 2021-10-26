@@ -1,0 +1,14 @@
+Codigo del producto: 001
+Nombre del farmaco: Aspirina
+Componente principal: Acido acetilsalicilico
+Precio de venta: 2500
+
+Codigo del producto: 023
+Nombre del farmaco: Nolotil
+Componente principal: Metamizol
+Precio de venta: 3000
+
+Codigo del producto: 002
+Nombre del farmaco: Paracetamol
+Componente principal: Paracetamol
+Precio de venta: 1200

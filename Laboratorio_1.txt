@@ -1,0 +1,14 @@
+Codigo del producto: 025
+Nombre del farmaco: Metamizol
+Componente principal: Metamizol
+Precio de venta: 1500
+
+Codigo del producto: 100
+Nombre del farmaco: Xumadol
+Componente principal: Paracetamol
+Precio de venta: 2000
+
+Codigo del producto: 027
+Nombre del farmaco: Lomex
+Componente principal: Omeprazol
+Precio de venta: 3500
